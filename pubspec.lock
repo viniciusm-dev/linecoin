@@ -41,6 +41,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  bosun:
+    dependency: "direct main"
+    description:
+      name: bosun
+      sha256: "3068c3f51edf8a539a3698a16b10caddfc9754e9d8325841e716657ed2a24692"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.2"
   collection:
     dependency: transitive
     description:
@@ -321,6 +329,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.2"
+  tree_iterator:
+    dependency: transitive
+    description:
+      name: tree_iterator
+      sha256: "9e9a068920a5b9b54a445bc63ab720dbb7ee8ae2a2b80a011f8dfab4d8096eb3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.0"
   typed_data:
     dependency: transitive
     description:
