@@ -13,7 +13,7 @@ Update in the future
 # Usage
 To use linecoin, simply type linecoin followed by the quantity you want to convert and the currency codes for the source and target currencies. For example, to convert 10 US dollars (USD) to Brazilian reals (BRL), you would use the following command:
 
-linecoin -t BRL -c USD 10
+    linecoin -t BRL -c USD 10
 The output will display the converted value in the target currency. Note that if you do not specify a source currency, the default currency will be USD.
 
 For more information about using linecoin, type linecoin --help.
